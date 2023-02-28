@@ -1,6 +1,6 @@
 # drop-series-ptc
 
-オリジナルの音ゲー「Dropシリーズ」のプチコンmkII版です
+オリジナルの音楽ゲーム「Dropシリーズ」のプチコンmkII版です
 
 * 2020/8公開 [Drop-e](./Drop-e)
 * 2021/8公開 [Drop-m](./Drop-m)
